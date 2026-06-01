@@ -9,7 +9,7 @@ years."</blockquote>
 
 <blockquote>"MIT has increased by 25% since 2000, PT by 56% and non-motorised transport by 23% (...) Passenger transport demand is to a certain extent determined by price. Consumer prices for PT rose by 36% between 2000 and 2017, while they fell by 4% for MIT on roads.</blockquote>
 
-I've extend the analysis after 2017:
+I've extended the analysis after 2017:
 
 <img width="1200" height="500" alt="figure" src="https://github.com/user-attachments/assets/8bf823ef-15f6-4570-a767-13e473c9543d" />
 
