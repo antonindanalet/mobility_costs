@@ -9,21 +9,19 @@ years."</blockquote>
 
 <blockquote>"MIT has increased by 25% since 2000, PT by 56% and non-motorised transport by 23% (...) Passenger transport demand is to a certain extent determined by price. Consumer prices for PT rose by 36% between 2000 and 2017, while they fell by 4% for MIT on roads.</blockquote>
 
-I've extended the analysis after 2017:
+I've extended the analysis after 2017, until 2025:
 
-<img width="1200" height="500" alt="figure" src="https://github.com/user-attachments/assets/8bf823ef-15f6-4570-a767-13e473c9543d" />
+<img width="1200" height="500" alt="figure6_gif" src="https://github.com/user-attachments/assets/d346142d-432f-4ba0-9f06-89aa89ef6bc2" />
 
-It can be seen that the consumer price of public transport has stabilised and that that of MIT has increased with the COVID pandemic and has stabilised since 2022. Household income has declined with the pandemic, but the pre-COVID trend has now resumed.
+It can be seen that the consumer price of public transport has stabilised and that that of MIT has increased with the COVID pandemic and is now decreasing since 2022. Household income has declined with the pandemic, but the pre-COVID trend has now resumed.
 
-If we look at the detailed consumer prices for MIT, we can see that the maintenance and repair of vehicles follows the same trend as for public transport, i.e. growth faster than that of household income. The purchase of a car is becoming less and less important in the household budget, although there has been an increase since 2017. Spare parts and accessories follow the same trend. The price of fuel varies much more. It has risen sharply since the pandemic, peaking in 2022.
+If we look at the detailed consumer prices for MIT, we can see that the maintenance and repair of vehicles follows the same trend as for public transport, i.e. growth faster than that of household income. The purchase of a car is becoming less and less important in the household budget. Spare parts and accessories followed the same decreasing trend but we observe a decoupling since 2022. The price of fuel varies much more. It has risen sharply since the pandemic, peaking in 2022.
 
-<img width="1200" height="500" alt="figure_detailed_car" src="https://github.com/user-attachments/assets/a3bde1e6-d9cb-4a61-bf6c-92e52df4367c" />
+<img width="1200" height="500" alt="figure12_gif" src="https://github.com/user-attachments/assets/f2ed8ffc-a180-47db-9a92-65dfd4a59881" />
 
-In terms of public transport, there is no major difference between long-distance and regional transport. The consumer price of international public transport has risen sharply since 2021, the first year in which this information was collected separately.
+In terms of public transport, there is no major difference between long-distance and regional transport. The consumer price of international public transport has risen sharply since 2021, the first year in which this information was collected separately. In 2025, it is more similar to the prices of domestic trains.
 
-<img width="1200" height="500" alt="figure_PT_detailed" src="https://github.com/user-attachments/assets/920c9b9d-c325-44c9-8eba-cbf4bbf6d8a3" />
-
-The general increase in consumer prices for public transport can be explained by the increase in daily public transport distances of the resident population. With the pandemic, in 2021 distances were shortened by a good third (-35%) compared to 2015. Such a decrease is not evident for consumer prices. There was even a slight increase (1%) between 2015 and 2021 (similar to the increase in household income – also 1%).
+<img width="1200" height="500" alt="figure17_gif" src="https://github.com/user-attachments/assets/3951fe72-9d87-4210-85d9-eba722980196" />
 
 In order to support the modal shift from road to rail, the purchase price of cars should probably be higher.
 
