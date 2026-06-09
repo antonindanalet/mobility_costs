@@ -26,3 +26,4 @@ In terms of public transport, there is no major difference between long-distance
 In order to support the modal shift from road to rail, the purchase price of cars should probably be higher.
 
 <a href="https://datasci.social/@AntoninDanalet/114613643704750348">Thread on Mastodon</a>
+<a href="https://www.linkedin.com/pulse/consumer-price-mobility-switzerland-2000-2024-antonin-danalet-jqdce/">Article on LinkedIn</a>
